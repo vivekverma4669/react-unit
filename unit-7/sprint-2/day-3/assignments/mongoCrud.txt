@@ -1,0 +1,26 @@
+# Query 1: All users whose gender is male
+db.user.find({ gender: "Male" })
+
+# Query 2: All users whose ID is even
+db.user.find({ id: {$mod: [2, 0] } })
+
+# Query 3: Users who currently live in Japan
+db.user.find({ native: "Japan" })
+
+# Query 4: Users who are female and live in India
+db.user.find({ gender: "Female", native: "India" })
+
+# Query 5: Users who are more than 25 years old
+db.user.find({age: { $gt: 25 } })
+
+# Query 6: Users who are less than 50 years old and live in United States
+db.user.find({ age: { $lt: 50 }, native: "United States" })
+
+# Query 7: Total number of users who want to relocate to France (count only)
+db.user.count({ relocate_to: "France" })
+
+# Query 8: Total number of users who are from USA and want to relocate to Russia, sorted by age in ascending order
+db.user.find({ native: "United States", relocate_to: "Russia" }).sort({ age: 1 })
+
+# Query 9: Get all users, sorted by total number of family member ASC and age DESC order
+db.user.find().sort({ family_members: 1, age: -1 })

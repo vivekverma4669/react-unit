@@ -1,0 +1,10 @@
+// get todo request
+
+export const GET_BOOKS_REQUEST = "GET_BOOK_REQUEST";
+export const GET_BOOKS_SUCCESS = "GET_BOOK_SUCCESS";
+export const GET_BOOKS_FAILURE = "GET_BOOK_FAILURE";
+
+//  POST REQUEST
+export const POST_BOOK_REQUEST = "POST_BOOK_REQUEST";
+export const POST_BOOK_SUCCESS = "POST_BOOK_SUCCESS";
+export const POST_BOOK_FAILURE = "POST_BOOK_FAILURE";

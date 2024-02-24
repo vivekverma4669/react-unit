@@ -1,0 +1,9 @@
+POST /signup Mon Jan 22 2024 21:34:13 GMT+0530 (India Standard Time) 378ms
+POST /login Mon Jan 22 2024 21:37:34 GMT+0530 (India Standard Time) 58ms
+POST /login Mon Jan 22 2024 21:39:49 GMT+0530 (India Standard Time) 68ms
+POST /signup Mon Jan 22 2024 21:49:07 GMT+0530 (India Standard Time) 126ms
+GET /signup Mon Jan 22 2024 21:51:37 GMT+0530 (India Standard Time) 7ms
+POST /products/create Mon Jan 22 2024 21:55:28 GMT+0530 (India Standard Time) 1ms
+POST /products/create?secrettoken=secret1410 Mon Jan 22 2024 22:01:23 GMT+0530 (India Standard Time) 22105ms
+POST /products/65ae9845d7f899e092d7a856?secrettoken=secret1410 Mon Jan 22 2024 22:05:31 GMT+0530 (India Standard Time) 1ms
+POST /product/name?secrettoken=secret1410 Mon Jan 22 2024 22:05:53 GMT+0530 (India Standard Time) 1ms

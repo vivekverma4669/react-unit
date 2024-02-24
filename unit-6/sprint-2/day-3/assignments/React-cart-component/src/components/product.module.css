@@ -1,0 +1,35 @@
+/* src/components/product.module.css */
+.product_container{
+    border: 2px solid red;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin :20px;
+}
+  .productDetails {
+    flex: 1;
+  }
+  
+  .productName {
+    font-weight: bold;
+  }
+  
+  .productPrice {
+    margin-top: 5px;
+  }
+  
+  .productQuantity {
+    margin-top: 5px;
+  }
+  
+  .productActions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  

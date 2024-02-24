@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+}
+.book-list {
+	display: grid;
+	grid-template-columns: 25rem 25rem 25rem;
+	grid-template-rows: auto auto auto;
+	grid-gap: 5rem;
+	margin-top: 5rem;
+	justify-content: center;
+}
+.book {
+	box-shadow: 0 4px 15px lightgray;
+	padding: 13px;
+	border-radius: 8px;
+	width: 400px;
+	margin: auto;
+	text-align: left;
+	background-color: #fff;
+}
+.book h2 {
+	font-size: larger;
+	color: red;
+}
+.filter-options {
+	box-shadow: 0 4px 15px lightgray;
+	padding: 13px;
+	border-radius: 8px;
+	width: 1500px;
+	justify-content: space-around;
+	display: flex;
+	align-items: center;
+	margin: auto;
+}
+.filter-options select,
+.filter-options input {
+	box-shadow: 0 4px 15px lightgray;
+	padding: 13px;
+	border-radius: 8px;
+	margin: 0 1rem 0 1 rem;
+}
