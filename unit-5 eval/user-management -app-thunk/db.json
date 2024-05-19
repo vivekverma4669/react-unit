@@ -1,0 +1,164 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "published_year": 1960,
+      "genre": "Novel",
+      "isbn": "978-0-06-112008-4"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "published_year": 1949,
+      "genre": "Dystopian Fiction",
+      "isbn": "978-0-452-28423-4"
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "published_year": 1925,
+      "genre": "Fiction",
+      "isbn": "978-0-7432-7356-5"
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "published_year": 1997,
+      "genre": "Fantasy",
+      "isbn": "978-0-590-35340-3"
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "published_year": 1951,
+      "genre": "Novel",
+      "isbn": "978-0-316-76948-0"
+    },
+    {
+      "id": 6,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "published_year": 1813,
+      "genre": "Classic",
+      "isbn": "978-0-486-40811-6"
+    },
+    {
+      "id": 7,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "published_year": 1937,
+      "genre": "Fantasy",
+      "isbn": "978-0-618-34641-9"
+    },
+    {
+      "id": 8,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "published_year": 2003,
+      "genre": "Mystery",
+      "isbn": "978-0-307-27577-6"
+    },
+    {
+      "id": 9,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "published_year": 1988,
+      "genre": "Fiction",
+      "isbn": "978-0-06-231500-7"
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "published_year": 1954,
+      "genre": "Fantasy",
+      "isbn": "978-0-345-33968-3"
+    },
+    {
+      "id": 11,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "published_year": 1851,
+      "genre": "Adventure",
+      "isbn": "978-1-85326-081-4"
+    },
+    {
+      "id": 12,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "published_year": 2008,
+      "genre": "Dystopian Fiction",
+      "isbn": "978-0-439-02348-1"
+    },
+    {
+      "id": 13,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "published_year": 1869,
+      "genre": "Historical Novel",
+      "isbn": "978-0-00-734895-1"
+    },
+    {
+      "id": 14,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "published_year": 1932,
+      "genre": "Dystopian Fiction",
+      "isbn": "978-0-06-085052-4"
+    },
+    {
+      "id": 15,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "published_year": 1818,
+      "genre": "Gothic Fiction",
+      "isbn": "978-0-553-21033-0"
+    },
+    {
+      "id": 16,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "published_year": 1906,
+      "genre": "Epic Poetry",
+      "isbn": "N/A"
+    },
+    {
+      "id": 17,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "published_year": 1859,
+      "genre": "Historical Novel",
+      "isbn": "978-1-85326-081-4"
+    },
+    {
+      "id": 18,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "published_year": 1977,
+      "genre": "Horror",
+      "isbn": "978-0-385-12167-5"
+    },
+    {
+      "id": 19,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "published_year": 2006,
+      "genre": "Post-apocalyptic Fiction",
+      "isbn": "978-0-307-38789-9"
+    },
+    {
+      "id": 20,
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "published_year": 2003,
+      "genre": "Fiction",
+      "isbn": "978-1-59448-000-3"
+    }
+  ]
+}
